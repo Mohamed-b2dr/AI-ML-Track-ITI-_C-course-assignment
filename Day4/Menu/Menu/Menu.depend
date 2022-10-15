@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665562539 source:d:\ai&ml iti\c program\day3\menu\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<MyLibrary.h>
+
